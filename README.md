@@ -1,0 +1,2 @@
+# JGINYUE-B660I-Snow-Dream-12490F-RX5600XT-Hackintosh
+OpenCore for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
