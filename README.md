@@ -1,7 +1,7 @@
 # JGINYUE-B660I-Snow-Dream-12490F-RX5600XT-Hackintosh
 OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
 
-点击链接加入[Funhouse F10 MPro & 驰为 CoreBook X 2022款 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=v9za1jFA)
+点击链接加入 [精粤 B660I Snow Dream 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=NBj9mNYo)
 
 ### Computer Spec:
 
