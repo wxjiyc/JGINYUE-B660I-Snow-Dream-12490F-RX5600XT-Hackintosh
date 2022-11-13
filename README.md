@@ -8,7 +8,7 @@ OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
 | Component        | Specifications                         |
 | ---------------- | -------------------------------------- |
 | CPU              | Intel® Core™ i5-12490F                 |
-| RAM              | Asgard 16GB DDR4 3600MHz               |
+| RAM              | Asgard 16GB DDR4 3466MHz               |
 | Disk             | Western Digital PC SN730 512G NVMe SSD |
 | GPU              | AMD Radeon™ RX 5600 XT                 |
 | LAN              | Realtek RTL8125B / Realtek RTL8111H    |
@@ -20,15 +20,26 @@ OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
 
 ### What Works:
 
-
+- [x] Intel® Core™ i5-12490F Turbo Boost
+- [x] AMD Radeon™ GPUs
+- [x] ALC897 Audio Output/Input
+- [x] Realtek RTL8125B
+- [x] Realtek RTL8111H
+- [x] Intel Wi-Fi & Bluetooth
+- [x] Most USB Ports
+- [x] NVRAM
 
 ### What Not Work:
 
-
+- [ ] Onboard USB2.0 Headers
+- [ ] Sleep
 
 ### BIOS Settings:
 
-
+* Disable:  
+CSM
+CFG Lock
+Secure Boot
 
 ## Credits
 
