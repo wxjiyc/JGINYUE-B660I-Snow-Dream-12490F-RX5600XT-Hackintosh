@@ -37,9 +37,9 @@ OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
 ### BIOS Settings:
 
 * Disable:  
-CSM
-CFG Lock
-Secure Boot
+CSM  
+CFG Lock  
+Secure Boot  
 
 ## Credits
 
