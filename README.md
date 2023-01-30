@@ -1,5 +1,5 @@
 # JGINYUE-B660I-Snow-Dream-12490F-RX5600XT-Hackintosh
-OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT
+OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT-Hackintosh
 
 点击链接加入 [精粤 B660I Snow Dream 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=NBj9mNYo)
 
