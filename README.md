@@ -8,15 +8,15 @@ OpenCore EFI for JGINYUE-B660I-Snow-Dream-12490F-RX5600XT-Hackintosh
 | Component        | Specifications                         |
 | ---------------- | -------------------------------------- |
 | CPU              | Intel® Core™ i5-12490F                 |
-| RAM              | Asgard 16GB DDR4 3466MHz               |
+| RAM              | KingBank 16GB DDR4 3600MHz             |
 | Disk             | Western Digital PC SN730 512G NVMe SSD |
 | GPU              | AMD Radeon™ RX 5600 XT                 |
 | LAN              | Realtek RTL8125B / Realtek RTL8111H    |
 | WiFi & Bluetooth | Intel® Wi-Fi 6 AX201                   |
 | Audio            | Realtek ALC897                         |
-| Monitor          | BOE 27" 4K                             |
+| Monitor          | TUOSHUO 28" 4K@144Hz                   |
 | SMBIOS           | MacPro7,1                              |
-| BootLoader       | OpenCore 0.8.5                         |
+| BootLoader       | OpenCore 0.8.8                         |
 
 ### What Works:
 
